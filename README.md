@@ -4,7 +4,7 @@ A deep learning web app that classifies images as either a **cat** or a **dog**,
 
 ## 🚀 Demo
 
-🔗 Live App: [Add your Streamlit Cloud link here after deployment]
+🔗 Live App: [cat-dogclassifier-eeqqmwxvltnj6pcmplxhgy.streamlit.app]
 
 ## 📸 Screenshot
 
